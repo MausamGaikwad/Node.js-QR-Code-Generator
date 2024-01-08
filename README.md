@@ -23,10 +23,10 @@ You will be prompted to enter a URL. After entering the URL, the tool will gener
 - qr-image (https://www.npmjs.com/package/qr-image): Used for generating QR codes.
 - fs (https://nodejs.org/api/fs.html): Node.js module for file system operations.
 
-Contributing:
+## Contributing:
 
 Feel free to contribute to this project by opening issues or submitting pull requests.
 
-License:
+## License:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
