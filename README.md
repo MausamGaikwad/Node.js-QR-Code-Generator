@@ -6,7 +6,7 @@ This is a simple command-line tool that allows you to generate QR codes for a gi
 
 Make sure you have Node.js installed on your machine. You can install the project dependencies by running:
 
-bash
+```bash`
 "npm install"
 
 ## Usage:
